@@ -8,7 +8,7 @@
 source /etc/functions.sh
 cd $HOME/yiimpool/daemon_builder
 
-RESULT=$(dialog --stdout --nocancel --default-item 1 --title "Afiniel Coin Daemon Installer v4.4" --menu "Choose one" -1 60 8 \
+RESULT=$(dialog --stdout --nocancel --default-item 1 --title "Afiniel Coin Daemon Installer v4.5" --menu "Choose one" -1 60 8 \
 ' ' "- New and existing Daemon builds and upgrade -" \
 1 "Build New Coin Daemon from Source Code" \
 2 "Upgrade an Existing Coin Daemon" \
