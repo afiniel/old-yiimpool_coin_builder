@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #####################################################
 # Source code https://github.com/end222/pacmenu
-# Updated by Afiniel for crypto use...
+# Updated by Afiniel for Yiimpool use...
 #####################################################
 
 source /etc/functions.sh

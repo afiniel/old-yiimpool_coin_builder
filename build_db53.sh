@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #####################################################
-# Created by Afiniel for crypto use...
+# Updated by Afiniel for Yiimpool use...
 #####################################################
 
 

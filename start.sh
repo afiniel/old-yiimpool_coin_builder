@@ -2,7 +2,7 @@
 #####################################################
 # This is the entry point for configuring the system.
 # Source https://mailinabox.email/ https://github.com/mail-in-a-box/mailinabox
-# Updated by Afiniel for crypto use...
+# Updated by Afiniel for Yiimpool use...
 #####################################################
 
 source /etc/functions.sh # load our functions
@@ -35,8 +35,8 @@ sudo mkdir -p $STORAGE_ROOT/daemon_builder/temp_coin_builds
 fi
 sudo setfacl -m u:$USER:rwx $STORAGE_ROOT/daemon_builder
 
-message_box "Afiniel Crypto-Server Daemon Installer" \
-"Warning! This version of the daemon installer only works with servers setup with the Afiniel Crypto-Server Installer!
+message_box "Afiniel DaemonBuilder Installer" \
+"Warning! This version of the daemon installer only works with Pools setup with the Afiniel Yiimpool Installer!
 \n\nSetup for the most part is fully automated. Very little user input is required."
 
 # Start the installation.

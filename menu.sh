@@ -1,13 +1,14 @@
 #!/usr/bin/env bash
 #####################################################
 # Source code https://github.com/end222/pacmenu
-# Updated by Afiniel for crypto use...
+# Updated by Cryptopool-Builders  for crypto use...
+# Current Author Afiniel for crypto use.
 #####################################################
 
 source /etc/functions.sh
 cd $HOME/yiimpool/daemon_builder
 
-RESULT=$(dialog --stdout --nocancel --default-item 1 --title "Afiniel Crypto-Server Daemon Installer v1.37" --menu "Choose one" -1 60 8 \
+RESULT=$(dialog --stdout --nocancel --default-item 1 --title "Afiniel Coin Daemon Installer v4.1" --menu "Choose one" -1 60 8 \
 ' ' "- New and existing Daemon builds and upgrade -" \
 1 "Build New Coin Daemon from Source Code" \
 2 "Upgrade an Existing Coin Daemon" \

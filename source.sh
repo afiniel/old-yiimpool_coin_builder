@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
-#####################################################
-# Created by Afiniel for crypto use...
-#####################################################
+############################################################################
+# Source code https://github.com/cryptopool-builders/multipool_coin_builder#
+# Created by Cryptopool-builders                                           #
+# Updated by Afiniel for Yiimpool use.                                     #
+############################################################################
 
 source /etc/functions.sh
 source /etc/yiimpool.conf
