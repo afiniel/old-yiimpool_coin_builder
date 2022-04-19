@@ -8,7 +8,7 @@
 source /etc/functions.sh
 cd $HOME/yiimpool/daemon_builder
 
-RESULT=$(dialog --stdout --title "Afiniel Coin Daemon Installer v4.6" --menu "Choose one" -1 60 4 \
+RESULT=$(dialog --stdout --title "Afiniel Coin Daemon Installer v4.7.0" --menu "Choose one" -1 60 4 \
 1 "Install Berkeley 4.x Coin with autogen file" \
 2 "Install Berkeley 5.x Coin with autogen file" \
 3 "Install Coin with makefile.unix file" \

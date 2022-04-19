@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-############################################################################
-# Source code https://github.com/cryptopool-builders/multipool_coin_builder#
-# Created by Cryptopool-builders                                           #
-# Updated by Afiniel for Yiimpool use.                                     #
-############################################################################
+#############################################################################
+# Source code https://github.com/cryptopool-builders/multipool_coin_builder #
+# Created by Cryptopool-builders                                            #
+# Updated by Afiniel for Yiimpool use.                                      #
+#############################################################################
 
 clear
 
